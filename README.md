@@ -236,6 +236,7 @@ A collection of awesome things regarding the React ecosystem.
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
 - [cate](https://github.com/0-AI-UG/cate) - An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels
+- [global-calculator-pro](https://github.com/Almog787/Global-calculator-pro) - Precision open-source calculator engine & embeddable widgets suite.
 
 ### React Native
 
